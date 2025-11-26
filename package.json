@@ -1,1 +1,11 @@
-
+{
+  "name": "crypto-api-proxy",
+  "version": "1.0.0",
+  "description": "Proxy serverless para APIs de exchanges de criptomonedas",
+  "main": "api/proxy.js",
+  "scripts": {
+    "start": "echo 'Run this with a serverless provider like Vercel.'"
+  },
+  "dependencies": {},
+  "type": "module"
+}
